@@ -43,3 +43,6 @@ plt.imshow(npimage2, cmap='summer', vmax = 255, vmin = 0, interpolation=None)
 plt.show() 
 
 print(space)
+
+#Currently just counts space. need to add each array to an array itself,
+# then average by array size or width
